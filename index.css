@@ -174,6 +174,9 @@ ion-icon:hover {
         width: 100%;
         padding: 0;
         margin: 0;
+        display: flex;
+        justify-content: center;
+        align-content: center;
         text-align: center;
         margin-top: 100px;
     }
@@ -183,14 +186,17 @@ ion-icon:hover {
     }
 
     .text-section p {
-        line-height: 1.6;
+        line-height: 1.7;
         padding: 0 40px;
+        margin: 30px 0;
     }
 
     .text-section button {
         width: 70%;
+        
         padding: 10px 0;
         font-size: 15px;
+        align-self: center;
     }
 
     footer {
