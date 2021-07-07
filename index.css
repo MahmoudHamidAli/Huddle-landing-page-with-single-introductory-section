@@ -23,7 +23,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-color: var(--Violet);
-    overflow: hidden;
+    overflow-x: hidden;
     color: #eee;
     font-family: 'Poppins', sans-serif;
 }
